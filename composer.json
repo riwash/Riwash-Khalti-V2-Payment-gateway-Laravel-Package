@@ -1,0 +1,27 @@
+{
+    "name": "riwash/khalti",
+    "description": "This package allow you to integrate Khalti v2 payment in your website",
+    "keywords": [
+        "Laravel",
+        "Kalti",
+        "integration",
+        "Payment Gateway",
+        "Nepali Payment Gateway"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riwash Chamlagain",
+            "email": "contact@riwash.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Riwash\\Kalti\\": "src/"
+        }
+    },
+}
